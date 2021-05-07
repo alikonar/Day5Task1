@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/day5task1/Main.java=UTF-8
+encoding//src/day5task1/business/concretes/UserManager.java=UTF-8
+encoding//src/day5task1/core/concretes/ValidatorManager.java=UTF-8
+encoding//src/day5task1/core/concretes/VerificationManager.java=UTF-8
+encoding//src/day5task1/dataAccess/concretes/UserDao.java=UTF-8
